@@ -26,7 +26,8 @@
     }],
 
     "dependencies": {
-        "colors": ">= 0.5.1"
+        "colors": ">= 0.5.1",
+        "mkdirp": ">= 0.3.0"
     },
 
     "bunledDependencies": [
